@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "ronixsmpbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "Ronixsmp-FnND.aternos.me",
+    "port": 37990,
     "version": "1.21.1"
   },
   "position": {
